@@ -22,7 +22,7 @@
                 <div class="success-text">Success!</div>
                 <div class="description line-1">
 				<?php
-				echo "Your Github Repository with Github Actions has been successfully setup";
+				echo "Your Github R";
 				?>
 				</div>
                 <div class="description line-2">
